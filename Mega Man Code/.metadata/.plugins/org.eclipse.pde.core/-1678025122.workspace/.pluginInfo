@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="683" localization="OSGI-INF/l10n/bundle" name="Jogl-linux-i586" project="com.jogamp.jogl-linux-i586" provider="Jogamp"/>
+	<bundle bundleID="684" localization="OSGI-INF/l10n/bundle" name="Jogl-windows-i586" project="com.jogamp.jogl-windows-i586" provider="Jogamp"/>
+	<bundle bundleID="685" localization="OSGI-INF/l10n/bundle" name="Jogl-macosx-universal" project="com.jogamp.jogl-macosx-universal" provider="Jogamp"/>
+	<bundle bundleID="686" localization="OSGI-INF/l10n/bundle" name="Jogl-windows-amd64" project="com.jogamp.jogl-windows-amd64" provider="Jogamp"/>
+	<bundle bundleID="687" class="megaman.Activator" localization="OSGI-INF/l10n/bundle" name="megaman" project="megaman" provider="Christopher Burke"/>
+	<bundle bundleID="688" localization="OSGI-INF/l10n/bundle" name="Jogl-linux-amd64" project="com.jogamp.jogl-linux-amd64" provider="Jogamp"/>
+	<bundle bundleID="689" localization="OSGI-INF/l10n/bundle" name="Jogl" project="com.jogamp.jogl" provider="Jogamp">
+		<library name="gluegen-rt.jar"/>
+		<library name="jogl.all.jar"/>
+		<library name="nativewindow.all.jar"/>
+		<library name="newt.all.jar"/>
+	</bundle>
+</map>

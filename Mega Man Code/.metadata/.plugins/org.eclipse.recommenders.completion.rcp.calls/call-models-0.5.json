@@ -1,0 +1,32 @@
+{
+  "C:\\Users\\Chris\\workspace4\\com.jogamp.jogl\\jogl.all.jar": {
+    "location": "C:\\Users\\Chris\\workspace4\\com.jogamp.jogl\\jogl.all.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Chris\\workspace4\\com.jogamp.jogl\\jogl.all.jar\u0027. Neither fingerprint \u0027a0e4330f626c0ddf41ece3e1d213deceb3df368d\u0027 nor symbolic name \u0027jogl.all\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\Chris\\workspace4\\name.wadewalker.vbotutorial\\src": {
+    "location": "C:\\Users\\Chris\\workspace4\\name.wadewalker.vbotutorial\\src",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Chris\\workspace4\\name.wadewalker.vbotutorial\\src\u0027. Neither fingerprint \u0027null\u0027 nor symbolic name \u0027name.wadewalker.vbotutorial\u0027 are known."
+  },
+  "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\name.wadewalker.vbotutorial\\src": {
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\name.wadewalker.vbotutorial\\src",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\name.wadewalker.vbotutorial\\src\u0027. Neither fingerprint \u0027null\u0027 nor symbolic name \u0027name.wadewalker.vbotutorial\u0027 are known."
+  },
+  "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\megaman\\src": {
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\megaman\\src",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\megaman\\src\u0027. Neither fingerprint \u0027null\u0027 nor symbolic name \u0027megaman\u0027 are known."
+  },
+  "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\jogl.all.jar": {
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\jogl.all.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\jogl.all.jar\u0027. Neither fingerprint \u0027a0e4330f626c0ddf41ece3e1d213deceb3df368d\u0027 nor symbolic name \u0027jogl.all\u0027 are known."
+  }
+}

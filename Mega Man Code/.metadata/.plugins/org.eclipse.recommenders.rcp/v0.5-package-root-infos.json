@@ -1,0 +1,861 @@
+[
+  {
+    "symbolicName": "org.eclipse.ui",
+    "version": {
+      "major": 3,
+      "minor": 105,
+      "micro": 0,
+      "qualifier": "v20130522-1122"
+    },
+    "jarFileFingerprint": "fe7961858296aa3335c94c4db369cd9152dbc797",
+    "jarFileModificationDate": "2013-06-29T14:33:25.724-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.ui_3.105.0.v20130522-1122.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.preferences",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 100,
+      "qualifier": "v20130422-1538"
+    },
+    "jarFileFingerprint": "75b77bdb8eb93ed5c6d36267c46bf4ff50476747",
+    "jarFileModificationDate": "2013-06-29T14:32:59.484-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.equinox.preferences_3.5.100.v20130422-1538.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8303669499f816eb1536f08f7b99d21924fb85b8",
+    "jarFileModificationDate": "2013-08-25T15:12:36.636-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "911621bc30f4b29fec35eb583121a018189510f1",
+    "jarFileModificationDate": "2013-08-25T15:12:48.240-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.ui.workbench",
+    "version": {
+      "major": 3,
+      "minor": 105,
+      "micro": 0,
+      "qualifier": "v20130529-1406"
+    },
+    "jarFileFingerprint": "e4c684be2b20c3493aec823347e00bebf7bc5bb5",
+    "jarFileModificationDate": "2013-06-29T14:32:49.522-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.ui.workbench_3.105.0.v20130529-1406.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.registry",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 300,
+      "qualifier": "v20130327-1442"
+    },
+    "jarFileFingerprint": "328083486e75f87c6582660bba6117868679a1c1",
+    "jarFileModificationDate": "2013-08-25T14:09:04.726-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.equinox.registry_3.5.300.v20130327-1442.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "newt.all",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec368f6aa673bac9f6f73c2271a664ec62489cdd",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl\\newt.all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.e4.ui.workbench3",
+    "version": {
+      "major": 0,
+      "minor": 12,
+      "micro": 0,
+      "qualifier": "v20130515-1857"
+    },
+    "jarFileFingerprint": "86f3ec29981200ea5043d306fccc79872bad5eac",
+    "jarFileModificationDate": "2013-06-29T14:33:47.735-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.e4.ui.workbench3_0.12.0.v20130515-1857.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.app",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 100,
+      "qualifier": "v20130327-1442"
+    },
+    "jarFileFingerprint": "ae6b3f37e295b65ecbbddf356d06262a07f281cf",
+    "jarFileModificationDate": "2013-08-25T14:08:39.211-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.equinox.app_1.3.100.v20130327-1442.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.ui",
+    "version": {
+      "major": 3,
+      "minor": 105,
+      "micro": 0,
+      "qualifier": "v20130522-1122"
+    },
+    "jarFileFingerprint": "fe7961858296aa3335c94c4db369cd9152dbc797",
+    "jarFileModificationDate": "2013-08-25T14:09:06.624-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.ui_3.105.0.v20130522-1122.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.common",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 200,
+      "qualifier": "v20130402-1505"
+    },
+    "jarFileFingerprint": "f930417b1602dafb370d7b9ed7871c87e0b355b1",
+    "jarFileModificationDate": "2013-08-25T14:09:15.177-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.equinox.common_3.6.200.v20130402-1505.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5da320e46f1c616986563b2e788b5a0569cad088",
+    "jarFileModificationDate": "2013-08-25T15:12:36.634-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.e4.ui.workbench3",
+    "version": {
+      "major": 0,
+      "minor": 12,
+      "micro": 0,
+      "qualifier": "v20130515-1857"
+    },
+    "jarFileFingerprint": "86f3ec29981200ea5043d306fccc79872bad5eac",
+    "jarFileModificationDate": "2013-08-25T14:09:18.785-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.e4.ui.workbench3_0.12.0.v20130515-1857.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-linux-amd64",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:16:02-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl-linux-amd64\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.osgi",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130529-1710"
+    },
+    "jarFileFingerprint": "db671f837d6fd97ddb1cd293d57875d92e07d64a",
+    "jarFileModificationDate": "2013-06-29T14:33:19.692-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.osgi_3.9.0.v20130529-1710.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gluegen-rt",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "86e9afa13b2454efd68f7adb436cbaa9358f9f3b",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\gluegen-rt.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "name.wadewalker.vbotutorial",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2013-08-24T11:42:36.088-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\name.wadewalker.vbotutorial\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2013-08-25T15:12:36.667-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.core.runtime",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130326-1255"
+    },
+    "jarFileFingerprint": "93ddd8e0b4e694dad4ed4bf305809fb7ff567294",
+    "jarFileModificationDate": "2013-06-29T14:32:56.125-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.core.runtime_3.9.0.v20130326-1255.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.swt.win32.win32.x86_64",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1544"
+    },
+    "jarFileFingerprint": "fdd3f5e6bc8f903f252081b4647ad076180d2102",
+    "jarFileModificationDate": "2013-06-27T16:11:39.428-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse-4.3-delta-pack\\eclipse\\plugins\\org.eclipse.swt.win32.win32.x86_64_3.102.0.v20130605-1544.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-08-25T15:12:36.635-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.swt.win32.win32.x86_64",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1544"
+    },
+    "jarFileFingerprint": "fdd3f5e6bc8f903f252081b4647ad076180d2102",
+    "jarFileModificationDate": "2013-07-01T18:00:40.855-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\delta pack\\plugins\\org.eclipse.swt.win32.win32.x86_64_3.102.0.v20130605-1544.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jface",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130521-1714"
+    },
+    "jarFileFingerprint": "5c6ec6c72c96c6f4275329a1167c8d7380bbc5d2",
+    "jarFileModificationDate": "2013-06-29T14:33:53.762-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.jface_3.9.0.v20130521-1714.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.osgi",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130529-1710"
+    },
+    "jarFileFingerprint": "db671f837d6fd97ddb1cd293d57875d92e07d64a",
+    "jarFileModificationDate": "2013-08-25T14:09:03.165-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.osgi_3.9.0.v20130529-1710.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-windows-i586",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:19:24-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl-windows-i586\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gluegen-rt",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "86e9afa13b2454efd68f7adb436cbaa9358f9f3b",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl\\gluegen-rt.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.runtime",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130326-1255"
+    },
+    "jarFileFingerprint": "93ddd8e0b4e694dad4ed4bf305809fb7ff567294",
+    "jarFileModificationDate": "2013-08-25T14:08:46.316-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.core.runtime_3.9.0.v20130326-1255.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "runtime_registry_compatibility",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ac04672bb5fe775a57510ac581b6645210c11c32",
+    "jarFileModificationDate": "2013-08-25T14:09:52.547-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.core.runtime.compatibility.registry_3.5.200.v20130514-1256\\runtime_registry_compatibility.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bacccb018b46271cd93f83e38c277158a39f591e",
+    "jarFileModificationDate": "2013-08-25T15:12:37.001-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "nativewindow.all",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "41e7bb7733389a59148d671bf2baee8b10ac12f8",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\nativewindow.all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.app",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 100,
+      "qualifier": "v20130327-1442"
+    },
+    "jarFileFingerprint": "ae6b3f37e295b65ecbbddf356d06262a07f281cf",
+    "jarFileModificationDate": "2013-06-29T14:32:44.937-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.equinox.app_1.3.100.v20130327-1442.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c7fea395d8246fe6ac3f43e6283e9e8022006797",
+    "jarFileModificationDate": "2013-08-25T15:12:47.862-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4e50ce26184730f4e371fad52ec03bca3e52859",
+    "jarFileModificationDate": "2013-08-25T15:12:36.626-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.registry",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 300,
+      "qualifier": "v20130327-1442"
+    },
+    "jarFileFingerprint": "328083486e75f87c6582660bba6117868679a1c1",
+    "jarFileModificationDate": "2013-06-29T14:33:22.218-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.equinox.registry_3.5.300.v20130327-1442.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.contenttype",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 200,
+      "qualifier": "v20130326-1255"
+    },
+    "jarFileFingerprint": "0335ae99862a28b05778fbd10fbf65e000ae3cfe",
+    "jarFileModificationDate": "2013-06-29T14:33:45.483-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.core.contenttype_3.4.200.v20130326-1255.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-macosx-universal",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:20:16-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl-macosx-universal\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0a4d4f4cad115256868f9de4e475ad4754f6e6c4",
+    "jarFileModificationDate": "2013-08-25T15:12:36.627-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-windows-amd64",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:18:08-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl-windows-amd64\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-linux-i586",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:17:12-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl-linux-i586\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.commands",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 100,
+      "qualifier": "v20130515-1857"
+    },
+    "jarFileFingerprint": "3332bf431cb1eca882df8a46fcd97b688aeb8afb",
+    "jarFileModificationDate": "2013-08-25T14:09:04.812-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.core.commands_3.6.100.v20130515-1857.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-linux-amd64",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:16:02-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl-linux-amd64\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.ui.workbench",
+    "version": {
+      "major": 3,
+      "minor": 105,
+      "micro": 0,
+      "qualifier": "v20130529-1406"
+    },
+    "jarFileFingerprint": "e4c684be2b20c3493aec823347e00bebf7bc5bb5",
+    "jarFileModificationDate": "2013-08-25T14:08:41.421-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.ui.workbench_3.105.0.v20130529-1406.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "runtime_registry_compatibility",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ac04672bb5fe775a57510ac581b6645210c11c32",
+    "jarFileModificationDate": "2013-06-29T14:34:41.667-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.core.runtime.compatibility.registry_3.5.200.v20130514-1256\\runtime_registry_compatibility.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8548061f982dcc8843b280dfd86d3fffff57bb59",
+    "jarFileModificationDate": "2013-08-25T15:12:36.669-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.core.contenttype",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 200,
+      "qualifier": "v20130326-1255"
+    },
+    "jarFileFingerprint": "0335ae99862a28b05778fbd10fbf65e000ae3cfe",
+    "jarFileModificationDate": "2013-08-25T14:09:17.006-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.core.contenttype_3.4.200.v20130326-1255.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.common",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 200,
+      "qualifier": "v20130402-1505"
+    },
+    "jarFileFingerprint": "f930417b1602dafb370d7b9ed7871c87e0b355b1",
+    "jarFileModificationDate": "2013-06-29T14:33:42.010-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.equinox.common_3.6.200.v20130402-1505.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-windows-amd64",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:18:08-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl-windows-amd64\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.swt",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1539"
+    },
+    "jarFileFingerprint": "70a06ae5998c6c42fc29653f3e7bc1aa7fe40f92",
+    "jarFileModificationDate": "2013-06-29T14:32:56.390-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.swt_3.102.0.v20130605-1539.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "megaman",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2013-10-18T18:23:51.533-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\megaman\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.swt",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1539"
+    },
+    "jarFileFingerprint": "70a06ae5998c6c42fc29653f3e7bc1aa7fe40f92",
+    "jarFileModificationDate": "2013-08-25T14:08:46.516-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.swt_3.102.0.v20130605-1539.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.jobs",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 300,
+      "qualifier": "v20130429-1813"
+    },
+    "jarFileFingerprint": "69a54a3766004fc09222e2be6da544dde50ba50f",
+    "jarFileModificationDate": "2013-08-25T14:09:26.572-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.core.jobs_3.5.300.v20130429-1813.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "nativewindow.all",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "41e7bb7733389a59148d671bf2baee8b10ac12f8",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl\\nativewindow.all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2013-08-25T15:12:36.633-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jface",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130521-1714"
+    },
+    "jarFileFingerprint": "5c6ec6c72c96c6f4275329a1167c8d7380bbc5d2",
+    "jarFileModificationDate": "2013-08-25T14:09:21.425-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.jface_3.9.0.v20130521-1714.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.preferences",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 100,
+      "qualifier": "v20130422-1538"
+    },
+    "jarFileFingerprint": "75b77bdb8eb93ed5c6d36267c46bf4ff50476747",
+    "jarFileModificationDate": "2013-08-25T14:08:48.717-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.equinox.preferences_3.5.100.v20130422-1538.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "newt.all",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec368f6aa673bac9f6f73c2271a664ec62489cdd",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\newt.all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-windows-i586",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:19:24-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl-windows-i586\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc3b2d68e2ea959b23888e907993644e3f8c1ea1",
+    "jarFileModificationDate": "2013-08-25T15:12:47.467-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.swt.win32.win32.x86_64",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1544"
+    },
+    "jarFileFingerprint": "18cc7b5bc42dbd45697addae234d9d127b995956",
+    "jarFileModificationDate": "2013-08-25T14:08:40.704-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\EclipseRCP\\eclipse\\plugins\\org.eclipse.swt.win32.win32.x86_64_3.102.0.v20130605-1544.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-linux-i586",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:17:12-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl-linux-i586\\src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "77df74be5591c718de35ca1768786d3901103afe",
+    "jarFileModificationDate": "2013-08-25T15:12:36.628-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jogl.all",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0e4330f626c0ddf41ece3e1d213deceb3df368d",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace4\\com.jogamp.jogl\\jogl.all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cbb58ca9ff2758edb4f29b8570cfc9fe7aa3a150",
+    "jarFileModificationDate": "2013-08-25T15:12:47.268-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.core.jobs",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 300,
+      "qualifier": "v20130429-1813"
+    },
+    "jarFileFingerprint": "69a54a3766004fc09222e2be6da544dde50ba50f",
+    "jarFileModificationDate": "2013-06-29T14:33:56.947-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.core.jobs_3.5.300.v20130429-1813.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jogl.all",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0e4330f626c0ddf41ece3e1d213deceb3df368d",
+    "jarFileModificationDate": "2010-10-07T16:33:54-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl\\jogl.all.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.commands",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 100,
+      "qualifier": "v20130515-1857"
+    },
+    "jarFileFingerprint": "3332bf431cb1eca882df8a46fcd97b688aeb8afb",
+    "jarFileModificationDate": "2013-06-29T14:33:22.334-04:00",
+    "location": "C:\\Program Files (x86)\\Eclipse\\eclipse\\plugins\\org.eclipse.core.commands_3.6.100.v20130515-1857.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jogamp.jogl-macosx-universal",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileModificationDate": "2010-10-14T16:20:16-04:00",
+    "location": "C:\\Users\\ChrisLaptop\\Desktop\\ChrisLaptopOld\\workspace5\\com.jogamp.jogl-macosx-universal\\src",
+    "javaRuntime": false
+  }
+]

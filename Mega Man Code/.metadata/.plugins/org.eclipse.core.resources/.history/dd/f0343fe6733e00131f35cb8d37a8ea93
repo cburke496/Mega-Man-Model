@@ -1,0 +1,44 @@
+package megaman;
+
+import javax.media.opengl.GL2;
+import javax.media.opengl.GLAutoDrawable;
+import javax.media.opengl.glu.GLU;
+
+public class Enemy {
+
+    public GLU glu = Main.glu;
+    private float xCoor;
+    private float zCoor;
+    //private float rad;
+    //private float height;
+
+    public Enemy( float xCoor, float zCoor, float rad, float height ) {
+        this.xCoor = xCoor;
+        this.zCoor = zCoor;
+        //this.rad = rad;
+        //this.height = height;
+    }
+
+    
+    public float getXCoor() {
+        return xCoor;
+    }
+    
+    public float getZCoor() {
+        return zCoor;
+    }
+    
+    //public float getRad() {
+    //    return rad;
+    //}
+    
+    public void drawEnemy( GLAutoDrawable drawable ) {
+        GL2 gl = drawable.getGL().getGL2();
+
+        gl.glPushMatrix();
+        gl.glTranslatef( xCoor, Main.lowerBound, zCoor );
+        gl.glColor3f( 1.0f, 0.0f, 0.0f );
+        //Main.drawCylinder( drawable, rad, height );
+        gl.glPopMatrix();
+    }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.portable.InputStream"/>
+<fullyQualifiedTypeName name="com.jogamp.opengl.util.texture.TextureData"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="javax.media.opengl.glu.GLU"/>
+<fullyQualifiedTypeName name="javax.media.opengl.GLAutoDrawable"/>
+<fullyQualifiedTypeName name="javax.media.opengl.GL2"/>
+</qualifiedTypeNameHistroy>
